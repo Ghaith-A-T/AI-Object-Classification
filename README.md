@@ -93,18 +93,7 @@ Press **Q** to close the application.
 
 ## Screenshots
 
-### Phone Detection
-
-![Phone](screenshots/screenshot1.png)
-
-### Cup Detection
-
-![Cup](screenshots/screenshot2.png)
-
-### Pen Detection
-
-![Pen](screenshots/screenshot3.png)
----
+All output screenshots are stored in the **screenshots** folder.
 
 ## Author
 
