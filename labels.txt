@@ -1,0 +1,4 @@
+0 phone
+1 cup
+2 pen
+3 Nothing
