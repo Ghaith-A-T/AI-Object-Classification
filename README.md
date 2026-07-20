@@ -55,7 +55,8 @@ AI-Object-Classification
 ├── README.md
 └── screenshots
     ├── screenshot1.png
-    └── screenshot2.png
+    ├── screenshot2.png
+    └── screenshot3.png
 ```
 
 ---
